@@ -1,0 +1,147 @@
+Journal name	ISSN
+International Journal of Information Management	02684012
+Information Systems Research	10477047
+European Journal of Information Systems	0960085X
+Government Information Quarterly	0740624X
+International Journal of Information Management Data Insights	26670968
+Big Data and Society	20539517
+Journal of Information Technology	02683962
+Information Processing and Management	03064573
+Information Communication and Society	1369118X
+Scientific Data	20524463
+Information and Organization	14717727
+Telecommunications Policy	03085961
+Journal of Enterprise Information Management	17410398
+Education and Information Technologies	13602357
+Journal of Cheminformatics	17582946
+Information Technology and People	09593845
+International Journal of Geographical Information Science	13658816
+Quantitative Science Studies	26413337
+Journal of Chemical Information and Modeling	15499596
+IEEE Transactions on Information Theory	00189448
+Social Science Computer Review	08944393
+Information Systems Management	10580530
+Journal of the Medical Library Association	15365050
+Journal of Informetrics	17511577
+Journal of the Association for Information Science and Technology	23301635
+Library Hi Tech News	07419058
+Publications	23046775
+Scientometrics	01389130
+Library Hi Tech	07378831
+Ethics and Information Technology	13881957
+Online Information Review	14684527
+Journal of Academic Librarianship	00991333
+Journal of Health Communication	10810730
+Journal of Web Librarianship	19322909
+International Journal of Multimedia Information Retrieval	21926611
+Journal of Open Research Software	20499647
+New Review of Academic Librarianship	13614533
+Bottom Line	0888045X
+Research Evaluation	09582029
+College and Research Libraries	00100870
+Knowledge Management Research and Practice	14778238
+Health Information and Libraries Journal	14711834
+Internet Reference Services Quarterly	10875301
+Journal of Documentation	00220418
+Learned Publishing	09531513
+Journal of Decision Systems	12460125
+Reference Services Review	00907324
+VINE Journal of Information and Knowledge Management Systems	20595891
+Library Quarterly	00242519
+Library and Information Science Research	07408188
+Profesional de la Informacion	13866710
+Aslib Journal of Information Management	20503806
+Journal of Classification	01764268
+Communications in Information Literacy	19335954
+Information and Learning Science	23985348
+Public Library Quarterly	01616846
+Archival Science	13890166
+Journal of Librarianship and Information Science	09610006
+Journal of the Australian Library and Information Association	24750158
+Accountability in Research	15455815
+Journal of Information Science	01655515
+Portal	15312542
+Journal of Information Literacy	17505968
+Frontiers in Research Metrics and Analytics	25040537
+Social Science Information	05390184
+Journal of Library Administration	01930826
+Library Resources and Technical Services	00242527
+Transactions of the International Society for Music Information Retrieval	25143298
+Information Technology and Libraries	07309295
+Journal of the Canadian Health Libraries Association	17086892
+Medical Reference Services Quarterly	02763869
+IFLA Journal	03400352
+Computers in the Schools	07380569
+"Global Knowledge, Memory and Communication"	25149342
+International Journal of Law and Information Technology	09670769
+Data Technologies and Applications	25149288
+Information Discovery and Delivery	23986247
+F1000Research	20461402
+Information Development	02666669
+Personal and Ubiquitous Computing	16174909
+Journal of Librarianship and Scholarly Communication	21623309
+Scholarly Assessment Reports	26895870
+Journal of Data and Information Science	2096157X
+Cataloging and Classification Quarterly	01639374
+Data and Information Management	25439251
+Language Resources and Evaluation	1574020x
+International Journal on Digital Libraries	14325012
+Insights: the UKSG Journal	20487754
+Digital Library Perspectives	20595816
+Journal of Library Science in China	10018867
+Discover Computing	29482992
+Library Management	01435124
+Reference Librarian	02763877
+Science and Technology Libraries	0194262X
+School Library Research	21651019
+World Patent Information	01722190
+Electronic Library	02640473
+Data Intelligence	20967004
+Journal of Education for Library and Information Science	07485786
+Collection Management	01462679
+Journal of Business and Finance Librarianship	08963568
+Journal of Library and Information Services in Distance Learning	1533290X
+College and Undergraduate Libraries	10691316
+SCIRES-IT	22394303
+Technical Services Quarterly	07317131
+Journal of Electronic Resources Librarianship	1941126X
+Open Information Science	24511781
+LIBER Quarterly	14355205
+Digital Transformation and Society	27550761
+Archivaria	03186954
+Journal of Information Technology Teaching Cases	20438869
+Cuadernos.info	07193661
+Open Praxis	13699997
+Informing Science	15214672
+"Journal of Interlibrary Loan, Document Delivery and Electronic Reserve"	1072303X
+Education for Information	01678329
+Indian Journal of Information Sources and Services	22316094
+Libri	00242667
+International Information and Library Review	10572317
+College and Research Libraries News	00990086
+Proceedings of the Association for Information Science and Technology	23739231
+Information and Culture	21648034
+Evidence Based Library and Information Practice	1715720X
+Canadian Journal of Information and Library Science	1195096X
+Interacting with Computers	09535438
+Information Research	13681613
+Knowledge Cultures	23275731
+Public Services Quarterly	15228959
+Serials Librarian	0361526X
+DESIDOC Journal of Library and Information Technology	09740643
+Records Management Journal	09565698
+Knowledge Organization	09437444
+Performance Measurement and Metrics	14678047
+Digital Humanities Quarterly	19384122
+Manuscript and Book Heritage of Ukraine	22224203
+University Library at a New Stage of Social Communications Development. Conference Proceedings	27070476
+Collection and Curation	25149326
+Canadian Journal of Program Evaluation	08341516
+Information Resources Management Journal	10401628
+Issues in Science and Technology Librarianship	10921206
+JLIS.it	20381026
+Journal of Information Science and Engineering	10162364
+"International Journal of Information, Diversity and Inclusion"	25743430
+Polish Libraries	23009217
+Fukushima Journal of Medical Sciences	00162590
+Acta Informatica Pragensia	18054951

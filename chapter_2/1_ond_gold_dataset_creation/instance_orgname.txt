@@ -1,0 +1,1424 @@
+100000001	2021 Tianjin Postgraduate Research and Innovation Project
+100000002	3IA Côte d’Azur
+100000003	3IA Côte d'Azur
+100000004	5511 Science and Technology Innovation Talent Project of Jiangxi Province
+100000005	FP7 European Commission 7th Framework
+100000006	7th Framework Programme
+100000007	Action for AIDS
+100000008	ACTION FOR AIDS (AfA SINGAPORE)
+100000009	Austrian Academy of sciences APART-MINT
+100000010	APART-MINT
+100000011	Centre of Excellence for Environmental Decisions, Australian Research Council
+100000012	ARC Centre of Excellence for Environmental Decisions
+100000013	Addressing Society
+100000014	University of Adelaide
+100000015	Adelaide University
+100000016	Administration for Children and Families
+100000017	Administration for Community Living
+100000018	Advanced Manufacturing Office
+100000019	Aerodyne Research Inc.
+100000020	Aerodyne Research
+100000021	African Centre of Excellence on Technology Enhanced Learning
+100000022	Africa Centre of Excellence on Technology Enhanced Learning
+100000023	Agence Nationale de la Recherche
+100000024	Agencia Canaria de Investigación, Innovación y Sociedad de la Información
+100000025	Spanish Research Agency
+100000026	Agencia Estatal de Investigación
+100000027	Agencia Nacional de Investigación y Desarrollo ANID
+100000028	National Agency for Research and Development ANID
+100000029	Agencia Nacional de Investigación y Desarrollo
+100000030	Agencia I+D+i
+100000031	Agencia Nacional de Promoción Científica y Tecnológica
+100000032	Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación
+100000033	Agência Nacional de Inovação
+100000034	Agencia de Inovacao
+100000035	Agencia de Inversiones y Servicios
+100000036	Agencia de Inversiones y Servicios de Castilla y León
+100000037	Agency for Science, Technology and Research
+100000038	Agentura Pro Zdravotnický Výzkum České Republiky
+100000039	Italian National Research Agency
+100000040	Agenzia Nazionale per la Ricerca
+100000041	Agriculture Department of Shaanxi Province
+100000042	Universitas Airlangga
+100000043	Airlangga University
+100000044	Alberta Machine Intelligence Institute
+100000045	Alfred Benzon Foundation
+100000046	Alfred Sloan Fellowship
+100000047	Alfred P. Sloan Foundation
+100000048	Allen Institute for Artificial Intelligence
+100000049	French National Alliance of Life Sciences and Health
+100000050	Alliance nationale pour les sciences de la vie et de la santé
+100000051	Alzheimer's Disease Neuroimaging Initiative
+100000052	Ambrose Monell Foundation PTEN-Switch
+100000053	Ambrose Monell Foundation
+100000054	American Association of School Libraries 
+100000055	American Association of School Librarians
+100000056	Hellenic American Education Foundation
+100000057	American Hellenic Educational Progressive Association Foundation
+100000058	American Institute of Mathematics
+100000059	Amgen Biopharmaceutical Research & Development Co., Ltd.
+100000060	Amgen Inc.
+100000061	An-Najah National University
+100000062	Andalusian Institute of Women, Junta de Andalucía, Spain
+100000063	Andalusian Institute of Women, Junta de Andalucía
+100000064	Andalusian Research Plan, Junta de Andalucía
+100000065	Andrew Sabin Family Foundation
+100000066	Anhui Office of Philosophy and Social Science
+100000067	Anhui Provincial Department of Education
+100000068	Applied Basic and Advanced Technology Research Programs of Tianjin
+100000069	Arcadia Fund
+100000070	Arizona State University
+100000071	Arts and Humanities Research Council
+100000072	Asia Big Data Association
+100000073	Asian Studies Association of Australia
+100000074	Asociación Porkcolombia
+100000075	Asper School of Business
+100000076	Asper School of Business, University of Manitoba
+100000077	Association for Slavic, East European, and Eurasian Studies
+100000078	Association for Slavic East European and Eurasian Studies
+100000079	Association of Nordic Engineers
+100000080	Atatürk Üniversitesi
+100000081	Atatürk University
+100000082	Athens University of Economics and Business
+100000083	Auckland University of Technology
+100000084	Augusta University health sciences campus
+100000085	Augusta University Health
+100000086	Australian Cultural Data Engine
+100000087	Australian Federal Government
+100000088	Australian Government
+100000089	Australian National Commission for UNESCO
+100000090	Austrian Academy of Sciences
+100000091	Österreichische Forschungsförderungsgesellschaft
+100000092	Austrian Research Promotion Agency
+100000093	Azrieli Foundation
+100000094	BGI-Shenzhen
+100000095	BGI Group
+100000096	Universitatea Babeș-Bolyai
+100000097	Babeș-Bolyai University
+100000098	Baidu Research
+100000099	Baidu Research Institute
+100000100	Bailey Family Foundation
+100000101	Jay H. Baker Retailing Center
+100000102	Baker Retailing Center, University of Pennsylvania
+100000103	Banco Santander
+100000104	Banff Centre for Arts and Creativity
+100000105	Bangalore University
+100000106	Basic Research Program of Chinese Universities
+100000107	Bavarian State Ministry of Science and the Arts
+100000108	Bavarian State Ministry for Science and Art
+100000109	Beijing Higher Education Young Elite Teacher Project
+100000110	Beijing Institute of Technology Science
+100000111	Beijing Institute of Technology
+100000112	Beijing Jiaotong University
+100000113	Beijing Language and Culture University
+100000114	Beijing Municipal Education Commission
+100000115	Beijing Normal University
+100000116	Beijing Philosophy and Social Sciences
+100000117	Beijing Planning Office of Philosophy and Social Science
+100000118	Beijing Social Science Research Foundation of China
+100000119	Beijing Technology and Business University
+100000120	Beijing University of Posts and Telecommunications
+100000121	Bharti Centre for Communication, IIT Bombay
+100000122	Bharti Centre for Communication
+100000123	Virginia Bioinformatics Institute, Virginia Tech
+100000124	Biocomplexity Institute of Virginia Tech
+100000125	Biotechnology and Biological Sciences Research Council
+100000126	Boehringer Ingelheim Fonds
+100000127	Bradley University
+100000128	Fondation Brain Canada
+100000129	Brain Canada Foundation
+100000130	Brian Whitacre
+100000131	British Library
+100000132	Broad Institute, Inc.
+100000133	Broad Institute
+100000134	Buddhist Tzu Chi Hospital
+100000135	Buddhist Tzu Chi General Hospital
+100000136	Building Innovative Drug Discovery Infrastructure through Functional Control of Biomolecular Systems
+100000137	Bundesministerium für Bildung und Forschung
+100000138	Bundesministerium für Forschung, Technologie und Raumfahrt
+100000139	Federal Ministry of Infrastructure, Innovation, and Technology
+100000140	Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie
+100000141	Bureau de Recherches Géologiques et Minières
+100000142	Bureau of Justice Assistance
+100000143	U.S. Bureau of Land Management
+100000144	Bureau of Land Management
+100000145	CILIP Information Literacy Group
+100000146	COMSATS Institute of Information Technology
+100000147	COMSATS University Islamabad
+100000148	Finnish IT Center for Science Ltd.
+100000149	CSC - IT Center for Science
+100000150	CY Cergy Paris Université
+100000151	California Library Association
+100000152	Cal Poly San Luis Obispo
+100000153	California Polytechnic State University
+100000154	Calouste Gulbenkian Foundation
+100000155	Canadian Cancer Society
+100000156	Canadian Institutes of Health Research
+100000157	Canadian Research Society
+100000158	Canadian Nautical Research Society
+100000159	Canadian Space Agency
+100000160	Cancer Prevention and Research Institute of Texas
+100000161	Cancer Research Trust New Zealand
+100000162	Capital Normal University
+100000163	Carl von Ossietzky Universität Oldenburg
+100000164	Carnegie Foundation for the Advancement of Teaching
+100000165	Carnegie Mellon University in Pittsburgh
+100000166	Carnegie Mellon University
+100000167	Case Western Reserve University
+100000168	Castilla y León Regional Government
+100000169	Center for Hierarchical Materials Design
+100000170	Center for High Performance Computing CHPC
+100000171	Center for High Performance Computing (CHPC) at the University of Utah
+100000172	Center for Information Technology Policy
+100000173	Center for Information Technology Policy, Princeton University
+100000174	Center for Life Sciences CLS
+100000175	Center for Life Sciences
+100000176	Center for Long-Term Cybersecurity, University of California Berkeley
+100000177	Center for Mesoscale Connectomics
+100000178	Centro Singular de Investigación de Galicia
+100000179	Center for Research in Molecular Medicine and Chronic Diseases
+100000180	NSF Center for Science of Information
+100000181	Center for Science of Information
+100000182	Center for the Study of Educational Policy and Practices
+100000183	Center for the Study of Educational Policy and Practices, College of Education, Illinois State University
+100000184	Centers for Disease Control and Prevention
+100000185	Central China Normal University
+100000186	Central Connecticut State University
+100000187	Centre National pour la Recherche Scientifique et Technique
+100000188	Centre for Antibiotic Resistance Research, University of Gothenburg
+100000189	Leibniz Centre for European Economic Research
+100000190	Centre for European Economic Research
+100000191	South African Centre for High-Performance Computing
+100000192	Centre for High Performance Computing
+100000193	Informatics Center of the Metropolitan Academic Network (CI TASK) 
+100000194	Centre of Informatics Tricity Academic Supercomputer and networK
+100000195	Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California
+100000196	Centro de Investigación Científica y de Educación Superior de Ensenada
+100000197	Chalmers tekniska högskola
+100000198	Chalmers University of Technology
+100000199	Changzhou Key Laboratory of Industrial Internet and Data Intelligence
+100000200	Changzhou University
+100000201	Charles University
+100000202	Chaudhary Devi Lal University
+100000203	China Association for Science and Technology
+100000204	China Editology Society of Science Periodicals
+100000205	China Hubei Province Soft Science Key Project
+100000206	China Institute of Atomic Energy
+100000207	China Mobile Communications Corporation
+100000208	China Mobile
+100000209	China National Funds for Distinguished Young Scientists
+100000210	China Postdoc-toral Science Foundation
+100000211	China Postdoctoral Science Foundation-funded project
+100000212	Post-doctoral Science Foundation of China
+100000213	China Postdoctoral Science Foundation
+100000214	China Scholarship Council
+100000215	China West Normal University
+100000216	China Yunnan province major science and technology special plan project
+100000217	Chinese Academy of Sciences
+100000218	Chinese Academy of Social Sciences
+100000219	Chongqing Language Research Project
+100000220	Chongqing Postgraduate Joint Training Base Project
+100000221	Cibermedios nativos digitales en España
+100000222	Cisco Systems
+100000223	Cisco System
+100000224	City Council of Madrid
+100000225	City University of Science and Information Technology, Peshawar Pakistan
+100000226	City University of Science and Information Technology
+100000227	la Cité des Sciences et de l’Industrie
+100000228	Cité des Sciences et de l'Industrie
+100000229	Civil Aviation Flight University of China
+100000230	Clarivate Analytics
+100000231	Clarivate
+100000232	Claussen-Simon-Stiftung
+100000233	Claussen Simon Stiftung
+100000234	Swiss startup ClearSpace SA
+100000235	ClearSpace
+100000236	CoMotion, University of Washington
+100000237	Colin McFarlane
+100000238	College of Arts and Sciences, University of Oklahoma
+100000239	College of Computer Science, Zhejiang University
+100000240	College of Computer Science and Technology, Zhejiang University
+100000241	College of Education and Human Development, Texas A and M University
+100000242	College of Engineering, Texas A and M University
+100000243	College of Engineering, University of Wisconsin-Madison
+100000244	College of Liberal Arts, Texas A and M University
+100000245	Big Ten Academic Alliance
+100000246	Committee on Institutional Cooperation
+100000247	Competence Center Environment and Sustainability
+100000248	Compton Foundation
+100000249	Compute/Calcul Canada
+100000250	Compute Canada
+100000251	Comunidad Autónoma de la Región de Murcia
+100000252	Concordia University
+100000253	Conseil Régional du Centre-Val de Loire
+100000254	Consejo Nacional de Ciencia y Tecnologia
+100000255	Consejo Nacional de Ciencia y TecnologÃ­a, Paraguay
+100000256	Consejo Nacional de Ciencia y Tecnología
+100000257	Consejo Nacional de Investigaciones Científicas y Técnicas de la República Argentina
+100000258	Consejo Nacional de Investigaciones Científicas y Técnicas
+100000259	Spanish National Research Council
+100000260	Consejo Superior de Investigaciones Científicas
+100000261	Conselho Nacional de Desenvolvimento Cient?fico e Tecnol?gico ?
+100000262	Brazilian National Council for Scientific and Technological Development
+100000263	Conselho Nacional de Desenvolvimento Científico e Tecnológico
+100000264	Conselleria de Agricultura, Medio Ambiente, Cambio Climático y Desarrollo Rural, Generalitat Valenciana
+100000265	Constantine the Philosopher University in Nitra
+100000266	Coordination of Superior Level Staff Improvement
+100000267	Coordenação de Aperfeicoamento de Pessoal de Nível Superior
+100000268	Coordenação de Aperfeiçoamento de Pessoal de Nível Superior CAPES
+100000269	Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+100000270	Cornell University Law Library
+100000271	Cornell Law Library
+100000272	Cornell Tech
+100000273	Council for the Development of Social Science Research in Africa
+100000274	County Administrative Board
+100000275	Cyber Security Research Center, Ben-Gurion University of the Negev
+100000276	Grantová agentura České republiky
+100000277	Czech Science Foundation
+100000278	DSO National Laboratories
+100000279	Dali University
+100000280	Dalian University of Technology
+100000281	Dalian Youth Science and Technology Star Program
+100000282	University of Damascus Postgraduate Research Budget
+100000283	Damascus University
+100000284	Dankook University
+100000285	Danish Council for Independent Research
+100000286	Danmarks Frie Forskningsfond
+100000287	U.S. Defense Advanced Research Project Agency
+100000288	Defense Advanced Research Projects Agency
+100000289	Degree Teaching Case Library Construction Project in Yunnan Province
+100000290	TU Delft
+100000291	Delft University of Technology
+100000292	Dutch knowledge institute Deltares
+100000293	Deltares
+100000294	Department for Education, UK Government
+100000295	Department for the Economy, Northern Ireland
+100000296	Department of Education and Training, Belgium
+100000297	Department of Education of Guangdong Province
+100000298	U.S. Department of Health and Human Services
+100000299	Department of Health and Human Services
+100000300	Department of Public Health
+100000301	Department of Telecommunications, Ministry of Communications, India
+100000302	Deutsche Forschungsgemeinschaft
+100000303	German Funding Agency
+100000304	Deutsche Forschungsgemein-schaft
+100000305	German Research Foundation
+100000306	Diamond Light Source Limited
+100000307	Diamond Light Source
+100000308	Dirección General de Cultura y Patrimonio, Generalitat Valenciana
+100000309	Directorate General of Research and Development
+100000310	National Science Foundation's Directorate for Computer and Information Science and Engineering
+100000311	Directorate for Computer & Information Science & Engineering
+100000312	District of Columbia Developmental Center for AIDS Research
+100000313	Division of Behavioral and Cognitive Science
+100000314	Division of Behavioral and Cognitive Sciences
+100000315	Division of Research on Learning in Formal and Informal Settings
+100000316	Division of Research, Evaluation, and Communication
+100000317	Dominican University of California
+100000318	Dong-guan Science and Technology of Social Development Program
+100000319	Dr. Jill Herndon
+100000320	Dr. Rosa Lanteri General Director U.O.7
+100000321	Durham Public Schools Foundation
+100000322	Dutch Cancer Society
+100000323	Netherlands Organization of Scientific Research NWO
+100000324	Nederlandse Organisatie voor Wetenschappelijk Onderzoek
+100000325	Dutch Research Council
+100000326	European Grid Initiative
+100000327	EGI
+100000328	EPSRC Centre for Doctoral Training in Medical Imaging
+100000329	ETH Zürich
+100000330	EU budget
+100000331	East China Normal University
+100000332	Economic and Social Research Council
+100000333	Fujian Education Department
+100000334	Education Department of Fujian Province
+100000335	Effat University, Jeddah
+100000336	Effat University
+100000337	Electronic Components and Systems for European Leadership
+100000338	Elena Kotlyarova and Victoria Zavarzina
+100000339	Engineering and Physical Sciences Research Council
+100000340	Statoil
+100000341	Equinor
+100000342	Erkki Paasikivi Foundation
+100000343	Eshelman Institute for Innovation, University of North Carolina at Chapel Hill
+100000344	Estonian Business Angels Association
+100000345	Estonian Business Angels Network
+100000346	Ethiopian Institute of Agricultural Research
+100000347	European Commission
+100000348	European Patent Office
+100000349	European Patent Organisation
+100000350	European Regional Development Fund
+100000351	European Research Council
+100000352	European Social Fund Plus
+100000353	European Social Funding Agency ESF+
+100000354	European Synchrotron Radiation Facility
+100000355	European Union and Greek National Funds
+100000356	Europa Universität Viadrina
+100000357	European University Viadrina
+100000358	FAIRsharing
+100000359	FORUM Pharmaceuticals
+100000360	Austrian Scientific Fund
+100000361	Austrian Science Fund FWF
+100000362	FWF Austrian Science Fund
+100000363	Facultad de Estomatología de la Universidad Peruana Cayetano Heredia
+100000364	Farr Institute
+100000365	Federal Financial Institutions Examination Council
+100000366	German Federal Ministry of Economics and Energy
+100000367	Federal Ministry for Economic Affairs and Energy
+100000368	German Federal Ministry of Health
+100000369	Federal Ministry of Health (Germany)
+100000370	Federal University Lokoja, Nigeria
+100000371	Federal University Lokoja
+100000372	Federation for the Humanities and Social Sciences
+100000373	Feilman Foundation
+100000374	Ferramenta de monitorização
+100000375	Florida Atlantic University
+100000376	Florida Institute of Technology
+100000377	Florida State University
+100000378	Fogarty International Center, FIC,/2021/019)
+100000379	Fogarty International Center
+100000380	Fondation pour la Recherche Médicale
+100000381	Fonden til Lægevidenskabens Fremme
+100000382	USDA's Food and Nutrition Service
+100000383	Food and Nutrition Service
+100000384	Foundation for Angelman Syndrome Therapeutics
+100000385	Östersjöstiftelsen
+100000386	Foundation for Baltic and East European Studies
+100000387	Foundation for Outstanding Young Scholars in Guangzhou
+100000388	Foundation for a Smoke-Free World
+100000389	national infrastructure France Génomique
+100000390	France Génomique
+100000391	Fudan University
+100000392	Fuel Cell Technologies Program
+100000393	Fujian Medical University
+100000394	German–American Fulbright Commission
+100000395	Fullbright Germany
+100000396	Fund Office for Philosophy and Social Sciences of Zhejiang Province
+100000397	Fund for Math
+100000398	Fundación Centro de Estudios Interdisciplinarios Básicos y Aplicados
+100000399	Fundación  CEIBA
+100000400	Fundación Atapuerca
+100000401	Fundación Mutua Madrileña
+100000402	Fundamental Research Funds for the Central Universities
+100000403	Fundamental Research Project of Yunnan Province
+100000404	Fundação Portugal Telecom
+100000405	Fundação de Amparo a Pesquisa de Minas Gerais FAPEMIG
+100000406	Fundação de Amparo à Pesquisa do Estado de Minas Gerais
+100000407	Fundação de Amparo à Pesquisa do Estado de São Paulo FAPESP
+100000408	FAPESP-São Paulo Research Foundation
+100000409	Fundação de Amparo à Pesquisa do Estado de São Paulo
+100000410	Fundep Fundação de Desenvolvimento da Pesquisa
+100000411	Fundação de Desenvolvimento da Pesquisa
+100000412	Fundação para a Ciência e a Tecnologia of Portugal
+100000413	Portuguese Fundação para a Ciência e a Tecnologia
+100000414	Portuguese Foundation for Science and Technology
+100000415	Fundação para a Ciência e Tecnologia
+100000416	GE Healthcare
+100000417	GE Healthcare (United States)
+100000418	GO FAIR Foundation
+100000419	The Canada Gairdner Foundation
+100000420	Gairdner Foundation
+100000421	Bill and Melinda Gates Foundation
+100000422	Gates Foundation
+100000423	Generalitat de Catalunya
+100000424	George & Fay Yee Centre for Healthcare Innovation
+100000425	George Mason University
+100000426	Georgia Institute of Technology
+100000427	German-Israeli Foundation for Scientific Research and Development
+100000428	Ghana Education Trust Fund
+100000429	Universiteit Gent
+100000430	Ghent University
+100000431	Gigtforeningen
+100000432	Gillian Hayes
+100000433	Google Faculty Research Award
+100000434	Google Research
+100000435	Government of the Hong Kong Special Administrative Region
+100000436	Government of Hong Kong
+100000437	Indian government
+100000438	Government of India
+100000439	Jiangsu Provincial Government
+100000440	Government of Jiangsu Province
+100000441	Artificial Intelligence Graduate School Program POSTECH
+100000442	Graduate School of Artificial Intelligence at POSTECH
+100000443	Great Britain China Centre
+100000444	Greenhills School, Ann Arbor
+100000445	Greenhills School
+100000446	EU Grundtvig
+100000447	Grundtvig programme
+100000448	Guangdong University of Technology
+100000449	Guangxi Philosophy and Social Science Planning
+100000450	Guangxi Special Project of Science and Technology Base and Talents
+100000451	Guangxi University Teachers’ Basic Research Ability Improvement Project
+100000452	Science & Technology Program of Guangzhou
+100000453	Guangzhou Municipal Science and Technology Project
+100000454	Gujarat Cancer Society
+100000455	Göran Gustafssons Stiftelser
+100000456	Göran Gustafsson Foundation
+100000457	University for Applied Sciences and Arts Western Switzerland
+100000458	HES-SO University of Applied Sciences and Arts Western Switzerland
+100000459	HSE Support Foundation
+100000460	Hacettepe Üniversitesi
+100000461	Hacettepe University
+100000462	Hal Daume III
+100000463	The Hang Seng University of Hong Kong
+100000464	Hang Seng University of Hong Kong
+100000465	Hangzhou Philosophy and Social Sciences Planning Project
+100000466	Hanken School of Economics
+100000467	Harbin Institute of Technology
+100000468	Harvard Graduate School of Education
+100000469	Hawai'i Council for the Humanities
+100000470	Health Technology Assessment Programme
+100000471	Health and Care Research Wales
+100000472	Heart and Stroke Foundation of Canada
+100000473	Heart and Stroke Foundation
+100000474	Hebei Province Science Foundation for Postdoctoral
+100000475	Hebrew University of Jerusalem
+100000476	Heilbronn Institute for Mathematical Research
+100000477	Heilongjiang Province Art Planning Project
+100000478	Helmholtz International Lab
+100000479	Helmholtz International Labs
+100000480	Higher Education Quality Engineering Project of Anhui Province
+100000481	Hingez Therapeutics Inc.
+100000482	UK Home Office
+100000483	Home Office
+100000484	Hongik University
+100000485	Hopkins Population Center, Johns Hopkins University
+100000486	Horace H. Rackham School of Graduate Studies, University of Michigan
+100000487	Horizon 2020
+100000488	European Commission Horizon 2020 Research and Innovation Action
+100000489	H2020 Covinform
+100000490	European Union s Horizon 2020 Research and Innovation Programme
+100000491	European Union’s Horizon 2020 programme
+100000492	EU Horizon 2020 program
+100000493	European Union’s Horizon 2020
+100000494	European Union’s Horizon Europe framework programme
+100000495	European Union’s Horizon 2020 Framework Programme for Research and Innovation Actions
+100000496	H2020 Research Program
+100000497	EU Horizon 2020 Research and Innovation Program
+100000498	Horizon Europe Research and Innovation Program
+100000499	Horizon 2020 Framework Programme
+100000500	Hormel Foundation
+100000501	Hoseo University, Hoseo
+100000502	Hoseo University
+100000503	Huawei Populus Grove Fund
+100000504	Huawei
+100000505	Huawei Technologies
+100000506	Hubei Collaborative Innovation Center for Early Warning
+100000507	Ferguson Funds
+100000508	Hugh and Jane Ferguson Foundation
+100000509	Humanity and Social Science foundation of Education Ministry
+100000510	Hunan Social Science Achievement Review Committee
+100000511	ICFAI Foundation for Higher Education, Hyderabad
+100000512	ICFAI Foundation for Higher Education
+100000513	Scuola IMT Alti Studi Lucca
+100000514	IMT School for Advanced Studies Lucca
+100000515	International Medical University
+100000516	IMU University
+100000517	ISEF Foundation
+100000518	Illinois State University
+100000519	University of Dammam
+100000520	Imam Abdulrahman Bin Faisal University
+100000521	Immersive Media Lab
+100000522	Immersive Media Lab at the University of Colorado Boulder
+100000523	Imperial Hospital, Khartoum
+100000524	Indian Council of Agricultural Research
+100000525	Indian Institute of Science
+100000526	Indian Institute of Technology
+100000527	IIT Bombay
+100000528	Indian Institute of Technology Bombay
+100000529	Indraprastha Institute of Information Technology, Delhi
+100000530	Indraprastha Institute of Information Technology Delhi
+100000531	Industrial and Information Industry Transformation and Upgrading Special Fund of Jiangsu Province
+100000532	UK Information Commissioner’s Office
+100000533	Information Commissioner’s Office
+100000534	Information Theory for Mobile Ad Hoc Networks
+100000535	Information Theory for Mobile Ad-Hoc Networks
+100000536	Research Infrastructure for the Science and Technology of Language
+100000537	Infraestrutura de Investigação para a Ciência e Tecnologia da Linguagem
+100000538	Infratel Spa
+100000539	Infratel Italia S.p.A.
+100000540	Innovation Foundation of High-end Scientific Research Institutions of Zhongshan City of China
+100000541	Innovations Fonden
+100000542	Innovation Fund Denmark
+100000543	Innovation Program for Quantum Science and Technology
+100000544	Innovation Team Project of Colleges in Guangdong Province
+100000545	Innovative Medicines Initiative
+100000546	ICIQ Foundation
+100000547	Institut Català d'Investigació Química
+100000548	Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement
+100000549	Institut National des Sciences Appliquées de Lyon
+100000550	Institut de recherche et d'histoire des textes
+100000551	Institute for Communication and Information Research at the University of Alabama
+100000552	Institute for Computing, Information and Cognitive Systems
+100000553	Institute for Social Research
+100000554	Institute of Botany, Chinese Academy of Sciences
+100000555	Institute of Botany at Chinese Academy of Sciences
+100000556	Institute of Clinical and Translational Sciences
+100000557	Institute of Clinical and Translational Sciences at Washington University in St.Louis
+100000558	Institute of Education Sciences
+100000559	Institute of Government Data Resources at Nanjing University
+100000560	Institute for Information & communications Technology Planning & evaluation
+100000561	Institute for Information & communications Technology Planning & Evaluation
+100000562	Institute of Information & Communications Technology Planning & Evaluation
+100000563	Instituto de Ciencias Matemáticas
+100000564	Institute of Mathematical Sciences
+100000565	Institute of Museum and Library Services grant
+100000566	Institute of Museum and Library Services
+100000567	Institute of Oceanology, Chinese Academy of Sciences
+100000568	Institute of Software, Chinese Academy of Sciences
+100000569	IFBaiano
+100000570	Instituto Federal de Educação, Ciência e Tecnologia Baiano
+100000571	Instituto Federal Goiás
+100000572	Instituto Federal de Goiás
+100000573	Instituto Nacional de Bioinformatica
+100000574	Instituto Nacional de Bioinformática
+100000575	Instituto Nacional de Ciência e Tecnologia para Excitotoxicidade e Neuroproteção
+100000576	Instituto Nacional de Ciência e Tecnologia em Excitotoxicidade e Neuroproteção
+100000577	Instituto Politécnico Nacional
+100000578	Intellectual and Developmental Disabilities Research Center
+100000579	Intelligent Policing Key Laboratory of Sichuan Province
+100000580	Interdisciplinary Center of Mathematical and Computer Modeling
+100000581	Interdisciplinary Centre for Mathematical and Computational Modelling at the University of Warsaw
+100000582	International Association of Public Participation
+100000583	International Association for Public Participation
+100000584	IDRC Canada
+100000585	International Development Research Centre
+100000586	International Federation of Library Associations and Institutions
+100000587	International Higher Education Teaching and Learning Association
+100000588	International Institute of Earthquake Engineering and Seismology
+100000589	International Joint Informatics Laboratory Fund
+100000590	International Joint Informatics Laboratory
+100000591	International Plant Nutrition Institute
+100000592	International Research Network for the Study of Science and Belief in Society
+100000593	International Society for the Scholarship of Teaching and Learning
+100000594	Al Iraqia University
+100000595	Iraqi University
+100000596	Isfahan University of Medical Sciences
+100000597	Islamic Azad University
+100000598	Israel Cancer Research Foundation
+100000599	Israel Cancer Research Fund
+100000600	Israeli Science Foundation
+100000601	Israel Science Foundation
+100000602	Istanbul Teknik Üniversitesi
+100000603	Istanbul Technical University
+100000604	J. Willard and Alice S. Marriott Foundation
+100000605	Jae-Hun KIM
+100000606	Japan Society of Competitive Intelligence
+100000607	Jiangsu Agricultural Science and Technology Innovation Fund
+100000608	Education Department of Jiangsu Province
+100000609	Jiangsu Education Department
+100000610	Jiangsu Province Social Sciences Foundation
+100000611	Jiangsu Province Surveying and Mapping Geographic Information Research Project
+100000612	Philosophy and Social Science Research of Jiangsu Province
+100000613	Jiangsu Provincial Federation of Philosophy and Social Sciences
+100000614	Jiangsu Students’ Innovation and Entrepreneurship Training Program
+100000615	Jiangsu University
+100000616	Jiangsu normal university scientific research and practical innovation project
+100000617	Science and Technology Department of Jiangxi Province
+100000618	Jiangxi Provincial Department of Science and Technology
+100000619	Jilin Provincial Key Laboratory of Big Data Intelligent Computing
+100000620	John Fell Oxford University Press Research Fund
+100000621	John Fell OUP Research Fund
+100000622	estudio de lKan ight Foundation
+100000623	John S. and James L. Knight Foundation
+100000624	John S.and James L.Knight Foundation
+100000625	Joint Laboratory for Mobile Learning
+100000626	José Bellido
+100000627	Junta de Andalucía
+100000628	Regional Government of Andalusia
+100000629	Jülich Supercomputing Centre, Forschungszentrum Jülich
+100000630	K&L Gates
+100000631	Kalinga Institute of Industrial Technology
+100000632	KIIT University
+100000633	Kagoshima University
+100000634	Kalen Parks
+100000635	Kangnam University
+100000636	Karlsruhe School of Services
+100000637	Katie Mackinnon
+100000638	Kazuhisa Nakayama
+100000639	Ministry of Education, Culture, Research and Technology
+100000640	Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+100000641	Key Fields of Colleges and Universities in Guangdong Province
+100000642	Key Laboratory of Chemical Biology and Traditional Chinese Medicine Research
+100000643	Key Laboratory of Chemical Biology and Traditional Chinese Medicine Research, Ministry of Education
+100000644	Key Laboratory of Coal Resources Exploration and Comprehensive Utilization, Ministry of Land and Resources
+100000645	Key Laboratory of Ecology and Energy-saving Study of Dense Habitat, Ministry of Education
+100000646	Key Laboratory of Ecology and Energy-saving Study of Dense Habitat (Tongji University), Ministry of Education
+100000647	Key Laboratory of Geological Survey and Evaluation of Ministry of Education
+100000648	Key Laboratory of Intelligent Press Media Technology
+100000649	Key Laboratory of Philosophy and Social Sciences in Hainan Province
+100000650	Key Laboratory of Spacecraft Design Optimization and Dynamic Simulation Technologies, Ministry of Education
+100000651	Key Laboratory of Synthetic and Biological Colloids, Ministry of Education
+100000652	Key Laboratory of Virtual Geographic Environment, Ministry of Education
+100000653	Key Laboratory of Virtual Geographic Environment (Nanjing Normal University), Ministry of Education
+100000654	Key Program of the Higher Education Institutions of Henan Province
+100000655	Sichuan Key Research Program
+100000656	Key Research and Development Program of Sichuan Province
+100000657	Key R&D Program of Zhejiang Province
+100000658	Key Research and Development Program of Zhejiang Province
+100000659	Key Science and Technology Program of Shaanxi Province
+100000660	Key Science and Technology Research Project in Jiangxi Province Department of Education
+100000661	Key University Science Research Project of Jiangsu Province
+100000662	Khalifa University of Science, Technology and Research
+100000663	Kickstarter Initiative
+100000664	Kickstarter
+100000665	Stiftelsen för Kunskaps- och Kompetensutveckling
+100000666	Knowledge Foundation
+100000667	Knowledge Management Society Japan
+100000668	Knowledge Management Society of Japan
+100000669	Kompetenznetzwerk Bibliometrie
+100000670	Finnish Kone Foundation
+100000671	Kone Foundation
+100000672	Korea Agency for Infrastructure Technology Advancement
+100000673	Korea Environmental Industry and Technology Institute
+100000674	Korea Institute of Geoscience and Mineral Resources
+100000675	Korea Institute of Marine Science and Technology promotion
+100000676	Korea Institute of Science and Technology Information
+100000677	Korea Institute of Science & Technology Information
+100000678	Korea National Institute of Health
+100000679	Korea Research Institute of Chemical Technology
+100000680	Korea University
+100000681	Korean Cultural Centre in Hong Kong
+100000682	Kultúrna a Edukacná Grantová Agentúra MŠVVaŠ SR
+100000683	Kyushu University
+100000684	UNESCO International Rising Talents
+100000685	L'Oréal-UNESCO For Women in Science International Rising Talents
+100000686	La Trobe University
+100000687	Laboratory Directed Research and Development
+100000688	Lake Macquarie City Council
+100000689	Lakeside Labs GmbH
+100000690	Lakeside Labs
+100000691	Lancaster University
+100000692	Universidade de Lancaster
+100000693	Leibniz-Institut für Ostseeforschung Warnemünde
+100000694	Leibniz Institute for Baltic Sea Research Warnemünde
+100000695	U.S. Leibniz Association
+100000696	Leibniz Society of North America
+100000697	Leiden University Fund
+100000698	Leiden University
+100000699	Lekouna Lady Charlène and Mombo Illich Mandred
+100000700	Lembaga Pengelola Dana Pendidikan
+100000701	LinkedIn
+100000702	Linksure Network Holding Pte Ltd
+100000703	Linksure Network
+100000704	Local Road Research Board
+100000705	National Science Foundation Long-Term Research in Environmental Biology program
+100000706	Long Term Research in Environmental Biology (LTREB) Program
+100000707	Loughborough University
+100000708	Louisiana Board of Regents
+100000709	Louisiana Materials Design Alliance
+100000710	Loyola University Chicago
+100000711	Down Syndrome Research and Treatment Foundation
+100000712	LuMind Research Down Syndrome Foundation
+100000713	Lunds Universitet
+100000714	Lund University
+100000715	Luiz Eduardo Magalhães Foundation
+100000716	Luís Eduardo Magalhães Foundation
+100000717	Lvyang and Jinfeng Project of Yangzhou
+100000718	MIT International Science and Technology Initiatives
+100000719	MLA Research Training Institute
+100000720	MOE Project of Key Research Institute of Humanities and Social Sciences at Universities
+100000721	MOST Program of International S&T Cooperation
+100000722	MOST Inter-governmental International Science & Technology Innovation Cooperation
+100000723	MSD China
+100000724	Macao Institute for Tourism Studies
+100000725	Macao University of Tourism
+100000726	Mae Fah Luang University
+100000727	Major Scientific Research Projects of Jilin Province
+100000728	Major Scientific and Technological Special Project of Guizhou Province
+100000729	Manipal Academy of Higher Education
+100000730	Margarita Stampelou
+100000731	FP7 Marie Curie Actions
+100000732	Marie Sklodowska-Curie Action
+100000733	EU FP7 Marie Curie project
+100000734	European Union’s Horizon 2020 MSCA
+100000735	Marie Skłodowska-Curie program
+100000736	H2020 Marie-Curie
+100000737	Marie Skłodowska-Curie Actions
+100000738	Materials Research Science and Engineering Center, Harvard University
+100000739	Mathematical Modeling Group in Epidemiology GMME
+100000740	Mathew Wilmott
+100000741	Mats Dolatkhah
+100000742	Max Planck Graduate Center
+100000743	Medical Research Council
+100000744	Uniwersytet Medyczny w Lodzi
+100000745	Medical University of Lodz
+100000746	Memorial University
+100000747	Memorial University of Newfoundland
+100000748	Metro Traffic FM
+100000749	Mianyang Science and Technology Program
+100000750	Microsoft Corporation
+100000751	Microsoft
+100000752	Milken Institute School of Public Health
+100000753	Milken Institute School of Public Health, George Washington University
+100000754	Croatian Ministry of Science and Education
+100000755	Ministarstvo znanosti, obrazovanja i mladih
+100000756	Minister of Research and Higher Education
+100000757	Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España
+100000758	Ministerio de Asuntos Exteriores y de Cooperación
+100000759	Ministerio de Ciencia y Tecnología
+100000760	Ministerio de Ciencia e Innovación
+100000761	Ministerio de Universidades
+100000762	Spanish Ministry of Science, Innovation and Universities
+100000763	Ministerio de Ciencia, Innovación y Universidades
+100000764	Ministry of Science, Technology, and Innovation of Colombia
+100000765	Ministerio de Ciencia, Tecnología e Innovación
+100000766	ministerio de economía y competitividad
+100000767	Ministerio de Economía y Competitividad
+100000768	Ministerio de Educación y Cultura
+100000769	Ministerio de Educación y Formación Profesional
+100000770	Ministerio de Empleo y Seguridad Social
+100000771	Ministerio de Trabajo y Economía Social
+100000772	Ministerio de las Culturas, las Artes y el Patrimonio
+100000773	German Ministry of Culture and Science of the Land of North Rhine-Westphalia
+100000774	Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen
+100000775	Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg
+100000776	Italian Ministry of Culture
+100000777	Ministero della cultura
+100000778	Ministry of Culture, Sports and Tourism
+100000779	Ministry of Defence, Singapore
+100000780	Ministry of Education
+100000781	Ministry of Education - Kingdom of Saudi Arabia
+100000782	Ministry of Education (Saudi Arabia)
+100000783	Ministry of Education - Singapore
+100000784	Ministry of Education (Singapore)
+100000785	Ministry of Education in China Project of Humanities and Social Sciences
+100000786	Chinese Minis-try of Education
+100000787	Ministry of Education in China
+100000788	Ministry of Education of the People's Republic of China
+100000789	Ministrstvo za Izobraževanje, Znanost in Šport
+100000790	Ministry of Education, Science and Sport
+100000791	Ministry of Electronics and Information technology, Meity
+100000792	Ministry of Electronics and Information technology
+100000793	Ministry of Higher Education, Malaysia
+100000794	Ministry of Higher Education (Malaysia)
+100000795	Ministry of Higher Education, Science, Research and Innovation, Thailand
+100000796	Ministry of Higher Education, Science, Research and Innovation
+100000797	Ministry of Science, and ICT
+100000798	Ministry of Science and ICT, South Korea
+100000799	Ministry of Science and ICT
+100000800	China's Ministry of Science and Technology
+100000801	Ministry of Science and Technology of the People's Republic of China
+100000802	Croatian Ministry of Science, Education And Sport
+100000803	Ministry of Science, Education and Sports
+100000804	Ministry of Science, ICT and Future Planning
+100000805	Ministry of Science Research and Technology of Iran
+100000806	Ministry of Science, Research and Technology
+100000807	Portuguese Ministry of Science and Education
+100000808	Ministry of Science, Technology and Higher Education
+100000809	Federal Ministry of Science, Technology and Innovation
+100000810	Kementerian Sains, Teknologi Dan Inovasi
+100000811	Ministry of Science, Technology and Innovation
+100000812	Ministry of Trade, Industry and Energy
+100000813	Ministry of Transportation and Telecommunication
+100000814	Ministry of Transportation and Telecommunications
+100000815	Mississippi Department of Marine Resources
+100000816	Mistra Urban Futures
+100000817	Mohamed V University
+100000818	Mohammed V University
+100000819	Mohn Westlake Foundation
+100000820	Montenegrin Centre for Underwater Sensor Networks
+100000821	Moody College of Communication at the University of Texas at Austin
+100000822	Myongji University
+100000823	NEH Digital Humanities Advancement
+100000824	NEH Digital Humanities Advancement Grant
+100000825	Pacto de Inovação – Transição Verde e Digital para Transportes, Logística e Mobilidade
+100000826	NEXUS: Pacto de Inovação - Transição Verde e Digital para Transportes, Logística e Mobilidade
+100000827	National Institute for Health Research Applied Research Collaboration Greater Manchester
+100000828	NIHR Applied Research Collaboration Greater Manchester
+100000829	NSF of Guangxi
+100000830	Public Health Corps Partners
+100000831	NYC Public Health Corps
+100000832	Nanjing Tech University
+100000833	Nanjing University of Posts and Telecommunications
+100000834	Nanyang Technological University
+100000835	Nasrine Olson and Gustaf Nelhans
+100000836	National Bioscience Database Center
+100000837	National Institutes of Health National Cancer Institute
+100000838	National Cancer Institute
+100000839	National Cancer Institute Clinical Proteomic Tumor Analysis Consortium
+100000840	National Center for Advancing Translational Sciences
+100000841	National Center in Big Data and Cloud Computing
+100000842	MARVEL National Centre of Competence in Research
+100000843	National Center of Competence in Research Materials’ Revolution: Computational Design and Discovery of Novel Materials
+100000844	National Education Sciences Planning program
+100000845	National Foundation for Science and Technology Development
+100000846	Australian Government National Health and Medical Research Council
+100000847	National Health and Medical Research Council
+100000848	National Heart Foundation of Australia
+100000849	National High-tech Research and Development Program
+100000850	National Institute for Health Research
+100000851	National Institute for Health and Care Research
+100000852	National Institute of Diabetes and Digestive and Kidney Diseases
+100000853	National Institute of General Medical Sciences of NIH
+100000854	National Institute of General Medical Sciences
+100000855	National Institute of Nursing Research
+100000856	National Institutes of Health
+100000857	National Institutes of Natural Sciences
+100000858	National Key R&D Program of China
+100000859	national key basic research development program
+100000860	National Key Research and Development Program of China
+100000861	Open Projects Program of National Laboratory of Pattern Recognition
+100000862	National Laboratory of Pattern Recognition
+100000863	National Library of Nigeria
+100000864	National Library of South Africa
+100000865	China Natural Science Foundation
+100000866	Chinese Nature Science Foundation
+100000867	National Natural Science Founda‑ tion of China
+100000868	National Natural Science Foundation, People's Republic of China
+100000869	China NSF
+100000870	National Natural Science Foundation of China
+100000871	NSFC-Guangdong
+100000872	National Natural Science Foundation of China-Guangdong Joint Fund
+100000873	Office for Philosophy and Social Sciences
+100000874	National Office for Philosophy and Social Sciences NOPSS
+100000875	National Office of Philosophy and Social Sciences
+100000876	National Park Service
+100000877	National Postdoctoral International Exchange Program of China
+100000878	National Press and Publication Administration
+100000879	Singapore National Res-earch Foundation
+100000880	National Research Foundation Singapore
+100000881	Korea Research Foundation
+100000882	Korea Science and Engineering Foundation
+100000883	National Research Foundation of Korea
+100000884	National Research, Development and Innovation Office
+100000885	Polish National Science Centre
+100000886	National Science Centre
+100000887	National Science Library
+100000888	Taiwan Ministry of Science and Technology
+100000889	National Science and Technology Council of Taiwan
+100000890	National Science and Technology Council (Taiwan)
+100000891	National Science and Technology Management Information System
+100000892	Polish NSC
+100000893	National Security Council (Poland)
+100000894	National Security Intelligence Studies
+100000895	National Social Science Fund
+100000896	National Social Science Foundation of China
+100000897	China National Social Science Research Fund
+100000898	National Social Science Fund of China
+100000899	National Research Foundation Aid Scheme Nsfas of South Africa
+100000900	National Student Financial Aid Scheme
+100000901	National Tsing Hua University
+100000902	National University
+100000903	National University of Defense Technology
+100000904	National University of Singapore
+100000905	National and University Library of Iceland
+100000906	Nationale Forschungsdateninfrastruktur
+100000907	National Research Data Infrastructure
+100000908	Natural Resources Wales
+100000909	Natural Science Foundation of Chongqing
+100000910	Natural Science Foundation Project of Chongqing, Chongqing Science and Technology Commission
+100000911	Hebei Natural Science Foundation
+100000912	Natural Science Foundation of Hebei Province
+100000913	Natural Science Foundation of Hubei Province
+100000914	Natural Science Foundation of Jiangxi Province
+100000915	Natural Science Foundation of Liaoning Province
+100000916	Natural Sciences and Engineering Research Council of Canada
+100000917	Neurosciences Bert Heinrichs and Charles Rathkopf
+100000918	New York University Shanghai
+100000919	Newcastle University
+100000920	Next Generation Infrastructures
+100000921	Ngarrindjeri Land and Progress Corporation
+100000922	Ngarrindjeri Lands & Progress Aboriginal Corporation
+100000923	Lower Saxony Ministry for Science and Culture
+100000924	Niedersächsisches Ministerium für Wissenschaft und Kultur
+100000925	Nirma University
+100000926	Nordic European Molecular Biology Laboratory Partnership for Molecular Medicine
+100000927	Nordic EMBL Partnership for Molecular Medicine
+100000928	North Carolina State University in Raleigh
+100000929	North Carolina State University
+100000930	Norte Portugal Regional Operational Programme
+100000931	North Portugal Regional Operational Programme
+100000932	Department of the Interior Northeast Climate Science Center
+100000933	Northeast Climate Adaptation Science Center
+100000934	Northeastern University
+100000935	Northern Territory Public Library Funding Agreement
+100000936	Northern Territory Research and Innovation Board
+100000937	Norwin Roosen
+100000938	NovoNordisk Fonden Bioscience and Basic Biomedicine
+100000939	Novo Nordisk Foundation
+100000940	Nuffic
+100000941	Det Obelske Familiefond
+100000942	Obel Family Foundation
+100000943	Oculus Foundation
+100000944	Office of Outreach and Engagement, University of Colorado Boulder
+100000945	Office for Outreach and Community Engagement, University of Colorado Boulder
+100000946	Office of Naval Research
+100000947	Office of Prescription Drug Promotion
+100000948	Office of Science
+100000949	Maryland Procurement Office
+100000950	Office of State Procurement
+100000951	Office of the National Broadcast and Telecom Commission of Thailand
+100000952	Office of The National Broadcasting and Telecommunications Commission
+100000953	Office of the Director of National Intelligence
+100000954	Ohio Northern University
+100000955	Oklahoma Department of Libraries
+100000956	Oklahoma State University
+100000957	Old Dominion University
+100000958	Ontario Brain Institute, Toronto ON, Canada
+100000959	Ontario Brain Institute
+100000960	Ontario Graduate Scholarship Fund
+100000961	Ontario Graduate Scholarship
+100000962	Open Force Field Consortium
+100000963	Open Force Field Initiative
+100000964	OpenEye Scientific Software
+100000965	Opening Fund of Key Laboratory of Poyang Lake Wetland
+100000966	Oracle for Research
+100000967	Oracle
+100000968	Orangutan Species Survival Plan
+100000969	Orion Foundation
+100000970	Orion Research Foundation
+100000971	Oslo University College
+100000972	Osteo Science Foundation
+100000973	Otto A. Malm Lahjoitusrahasto
+100000974	Oulun Yliopiston Tukisäätiö
+100000975	Prime Research International
+100000976	PRIME Research
+100000977	Pacchetti Integrati di Agevolazione
+100000978	Parañaque City Public Library
+100000979	Università degli Studi di Napoli Parthenope
+100000980	Parthenope University of Naples
+100000981	Partnership for the Organization of Innovation and New Technologies
+100000982	Penn State University
+100000983	Pennsylvania State University
+100000984	Persons with Disabilities in Science and Engineering
+100000985	Petrobras
+100000986	Philosophy and Social Science Innovative Talents Program in Universities of Henan Province in China
+100000987	111 Project of China
+100000988	Plan 111
+100000989	Politecnico di Bari
+100000990	Polytechnic University of Bari
+100000991	Pontificia Universidad Católica de Chile
+100000992	Post-doctoral International Exchange Project of Peking Union Medical College
+100000993	Postimees Foundation
+100000994	PowerBI Co., Ltd Belgium
+100000995	Power BI
+100000996	Primary Research & Development Plan Social Development of Zhenjiang City
+100000997	Prime Minister Office of Malaysia
+100000998	Prime Minister's Department (Malaysia)
+100000999	Prince Mohammad Bin Fahd University
+100001000	Prince Sattam bin Abdulaziz University
+100001001	Professional Staff Congress
+100001002	Foundation for Professor and Doctoral of Huizhou University
+100001003	Professorial and Doctoral Scientific Research Foundation of Huizhou University
+100001004	Programa Operacional Temático Factores de Competitividade
+100001005	Programa de Desarrollo de Ciencias Básicas
+100001006	Programa de Desarrollo de las Ciencias Básicas
+100001007	Project of Key Laboratory of Science and Technology on Communication Network
+100001008	Pufendorf Institute for Advanced Studies, Lund University
+100001009	Pusan National University
+100001010	Qatar University
+100001011	Institute of Food Research
+100001012	Quadram Institute
+100001013	Qualcomm Technologies, Inc.
+100001014	Qualcomm
+100001015	Quality Education Fund
+100001016	RMIT University
+100001017	Rabdan Academy
+100001018	Rajarata University of Sri Lanka
+100001019	Rare Disease Foundation
+100001020	Rauf Denktas University
+100001021	Recruitment Program of Global Experts
+100001022	Região Autónoma da Madeira
+100001023	Regional Government of Madeira
+100001024	Relay Therapeutics
+100001025	Research Center of Information Technology & Economic and Social Development in Zhejiang Province
+100001026	Academy of Finland
+100001027	Research Council of Finland
+100001028	Fonds voor Wetenschappelijk Onderzoek - Vlaanderen
+100001029	Research Foundation - Flanders
+100001030	Research Foundation-Flanders
+100001031	Research Grants Council, Hong Kong Special Administrative Region, China
+100001032	Research Grants Council
+100001033	Research Grants Council’s General Research Fund
+100001034	Research Grants Council of Hong Kong
+100001035	Research Grants Council, University Grants Committee
+100001036	Research Institute of Electrical Communication, Tohoku University
+100001037	Research Institute on Brand Innovation and Development of Guangzhou
+100001038	MLA Research Training Institute
+100001039	Research Training Institute - MLA
+100001040	Ribbingska Foundation in Lund
+100001041	Rice University Funds
+100001042	Rice University
+100001043	Richard King Mellon Foundation
+100001044	Robert J. Dole Institute of Politics, University of Kansas
+100001045	Rothschild Foundation
+100001046	Koninklijke Nederlandse Akademie van Wetenschappen
+100001047	Royal Netherlands Academy of Arts and Sciences
+100001048	Russian Federation State Library
+100001049	Russian State Library
+100001050	Région Auvergne-Rhône-Alpes
+100001051	Rezekne Higher Education Institution
+100001052	Rēzeknes Augstskola
+100001053	SAP North America
+100001054	STEM Leaders program Coordinator
+100001055	Salzburger Landesregierung
+100001056	Samuel Waxman Cancer Research Foundation
+100001057	San Diego State University
+100001058	Sansom Institute of Health Research
+100001059	Sansom Institute for Health Research
+100001060	Satakunnan korkeakoulusäätiö
+100001061	Saudi Arabian Monetary Agency
+100001062	Saudi Arabian Monetary Authority
+100001063	Saudi Aramco
+100001064	School of Communication and Information at Rutgers
+100001065	School of Communication and Information, Rutgers University
+100001066	School of Computer Sciences, Anhui University Hefei
+100001067	School of Computer Sciences and Technology at Anhui University
+100001068	School of Information Management, Victoria University of Wellington
+100001069	School of Information Sciences at the University of Tennessee-Knoxville
+100001070	School of Information Sciences at the University of Tennessee at Knoxville
+100001071	School of Information and Library Science, University of North Carolina at Chapel Hill
+100001072	University of North Carolina School of Medicine
+100001073	School of Medicine, University of North Carolina at Chapel Hill
+100001074	Science Achievement Scholarship of Thailand
+100001075	Science & Engineering Research Board, India
+100001076	Science and Engineering Research Board
+100001077	Science and Technology Cooperation and Exchange of Shanxi Province, China
+100001078	Sichuan Provincial Science and Technology Department
+100001079	Science and Technology Department of Sichuan Province
+100001080	Science and Technology Department of Zhejiang Province
+100001081	Science and Technology Project of Science and Technology Department of Henan Province
+100001082	Science for Life Laboratory
+100001083	Scientific Research and Technology Development Project of Hezhou, China
+100001084	Turkish Research Council
+100001085	Scientific and Technological Research Council of Turkey
+100001086	Scripps Research Institute
+100001087	Spanish State Secretariat for Research, Development and Innovation
+100001088	Secretary of State for Science, Innovation and Universities
+100001089	Secretaría Nacional de Ciencia, Tecnología e Innovación
+100001090	Commissariat aux Grands Investissements
+100001091	Secrétariat général pour l'Investissement
+100001092	Shaanxi Academy of Social Sciences
+100001093	Shaanxi Provincial Postdoctoral Research
+100001094	Shaden Shabayek
+100001095	Shandong Provincial Project of Education Scientific Plan
+100001096	Shandong University PR China
+100001097	Shandong University
+100001098	Shanghai Key Laboratory for Urban Ecological Processes and Eco-Restoration
+100001099	Shanghai Municipal Education Commission
+100001100	Shanghai Philosophy and Social Sciences Project
+100001101	Shanghai Science and Technology Program
+100001102	ShanghaiTech University
+100001103	Postdoctoral Science Foundation of Shanxi Province
+100001104	Shanxi Provincial Postdoctoral Science Foundation
+100001105	Shanxi Research Institute for Clean Energy
+100001106	Sheffield Hallam University
+100001107	Shelley Crossland
+100001108	Basic Research Project of Shenzhen, China
+100001109	Shenzhen Municipal Fundamental Research Program
+100001110	Shenzhen University
+100001111	Shenzhen University-Lingnan University Joint Research Programme
+100001112	Shiraz University
+100001113	Shynar Abdrakhmanova and Valikhan Akhmetov
+100001114	Siberian Federal University
+100001115	Sichuan Industrial Institute of Antibiotics
+100001116	Education Department of Sichuan Province
+100001117	Sichuan Provincial Department of Education
+100001118	Sichuan Provincial Fund
+100001119	Sichuan Provincial Project of International Scientific and Technical Exchange and Research Collaboration Programs
+100001120	Sigma Pharmaceuticals
+100001121	Sigma Pharmaceuticals, LLC
+100001122	Simon Fraser University
+100001123	Simone Severini
+100001124	Sirindhorn International Institute of Technology
+100001125	Sirindhorn International Institute of Technology, Thammasat University
+100001126	Small Business Innovative Research and Small Business Technology Transfer
+100001127	Small Business Innovation Research and Small Business Technology Transfer
+100001128	Social Science Foundation of Jiangsu Institutions
+100001129	Social Science Research General Projects of the Ministry of Education of China
+100001130	Social Sciences Foundation Project of Shaanxi Province of China
+100001131	Social Sciences and Humanities Research Council of Canada
+100001132	Social Sciences and Humanities Research Council
+100001133	Social science funds of Jiangsu province
+100001134	Society of Toxicology
+100001135	Soochow University
+100001136	Sorbonne Université
+100001137	South China Sea Institute of Oceanology
+100001138	South Korean government’s request for International Monetary Fund
+100001139	South Sichuan Institute of medical research and transformation
+100001140	Southern Illinois University Carbondale
+100001141	South University of Science and Technology of China
+100001142	Southern University of Science and Technology
+100001143	Southwest Petroleum University
+100001144	Special Innovation Project of University in Guangdong Province
+100001145	Sri Devraj Urs Medical College
+100001146	Sri Devaraj Urs Medical College
+100001147	Srinakharinwirot University
+100001148	St. John's University
+100001149	State Key Laboratory of Integrated Services Networks
+100001150	State Key Laboratory of Oncogenes and Related Genes
+100001151	State Key Laboratory of Precision Spectroscopy
+100001152	State Library of NSW
+100001153	State Library of New South Wales
+100001154	Turkish State Planning Organization
+100001155	State Planning Organization
+100001156	Universitas Negeri Semarang
+100001157	State University of Semarang
+100001158	Statewide California Electronic Library Consortium
+100001159	Staunton Farm Foundation
+100001160	Stellenbosch University
+100001161	Universiteit Stellenbosch
+100001162	Strategic Environmental Research and Development Program
+100001163	Strategic Management Society
+100001164	Sun Yat-sen University
+100001165	Support Program for Longyuan Youth and Fundamental Research Funds for the Universities of Gansu Province
+100001166	Svea Bredal Foundation
+100001167	Sweden-America Foundation
+100001168	Sweden America Foundation
+100001169	Swedish funding agency STINT
+100001170	Swedish Foundation for International Cooperation in Research and Higher Education
+100001171	Swedish Foundation for Strategic Research
+100001172	Swedish National Council for Crime Prevention
+100001173	Vetenskapsrådet
+100001174	Swedish Research Council
+100001175	Swedish Transport Agency
+100001176	Swiss government excellence scholarship
+100001177	Swiss Government Excellence Scholarships
+100001178	Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung
+100001179	Swiss National Science Foundation
+100001180	TNMulti-Gen
+100001181	Universitas Tadulako
+100001182	Tadulako University
+100001183	Tampere University
+100001184	Tampereen Teknillinen Yliopisto
+100001185	Tanta University
+100001186	Tatung University
+100001187	Teaching and Learning Center, University of North Carolina at Pembroke
+100001188	Technion-Israel Institute of Technology
+100001189	Telecommunications Policy editor Erik Bohlin
+100001190	Telenor
+100001191	Texas Library Association
+100001192	Thamar University
+100001193	Brazil’s National Oil, Natural Gas, and Biofuels Agency
+100001194	The Brazilian National Agency for Petroleum, Natural Gas and Biofuels
+100001195	Canadian Association of Professional Academic Librarians
+100001196	The Canadian Association of Professional Academic Librarians
+100001197	The Children’s Guild
+100001198	German Competence Center for Bibliometrics
+100001199	The Competence Network for Bibliometrics
+100001200	Enterprise Center, Chattanooga
+100001201	The Enterprise Center
+100001202	The Institute of Statistical Mathematics
+100001203	Ministry of Education and Science of the Russian Federation, Minobrnauka
+100001204	The Ministry of Education and Science of the Russian Federation
+100001205	Ohio State University
+100001206	The Ohio State University
+100001207	Paula C. and Rodger O. Riney Fund
+100001208	The Paula & Rodger Riney Foundation
+100001209	Polonsky Foundation
+100001210	The Polonsky Foundation
+100001211	Norges Forskningsråd
+100001212	The Research Council of Norway
+100001213	Slovenian Research Agency
+100001214	The Slovenian Research and Innovation Agency
+100001215	The University of Danang, Vietnam
+100001216	The University of Da Nang
+100001217	University of Melbourne’s
+100001218	The University of Melbourne
+100001219	Thematic Research Fund in 2021
+100001220	Thematic Research 2021
+100001221	Thomas G. Carpenter Library
+100001222	Tianjin Science and Technology Committee
+100001223	Tianjin Municipal Science and Technology Committee
+100001224	Tianjin Research Innovation Project for Postgraduate Students
+100001225	Tocker Foundation
+100001226	Tokyo Metropolitan Institute for Geriatrics and Gerontology
+100001227	Toyohashi University of Technology
+100001228	Translational Research Institute, University of Arkansas for Medical Sciences
+100001229	Trinity College Dublin Arts and Social Sciences Benefactions Fund
+100001230	Trinity College, University of Oxford
+100001231	Trust in Digital Records in an Increasingly Networked Society
+100001232	Tsinghua University
+100001233	Tsinghua University Spring Breeze Fund
+100001234	Türkiye Bilimler Akademisi
+100001235	National Science Foundation-supported
+100001236	National Science Foundation's
+100001237	U.S. National Science Foundation
+100001238	UF Artificial Intelligence Research Catalyst Fund
+100001239	UK Research and Innovation
+100001240	UNM Comprehensive Cancer Center
+100001241	Udall Foundation
+100001242	United Nations University World Institute for Development Economics Research
+100001243	United States Agency for International Development
+100001244	Air Force Office of Scientific Research
+100001245	United States Air Force Office of Scientific Research
+100001246	Air Force Research Lab
+100001247	U.S. Air Force Research Lab
+100001248	United States Air Force Research Laboratory
+100001249	Army Research Office
+100001250	United States Army Research Office
+100001251	U.S. Department of Energy
+100001252	United States Department of Energy
+100001253	U.S. National Library of Medicine
+100001254	United States National Library of Medicine
+100001255	U.S. Patent and Trademark Office
+100001256	United States Patent and Trademark Office
+100001257	US-Israel Binational Science Foundation
+100001258	United States— Israel BSF
+100001259	United States-Israel Binational Science Foundation
+100001260	Universidad Complutense de Madrid
+100001261	Universidad La Salle in Mexico City
+100001262	Universidad La Salle México
+100001263	Universidad Santo Tomás, Chile
+100001264	Universidad Santo Tomás
+100001265	Technical University of Manabí
+100001266	Universidad Técnica de Manabí
+100001267	University of Oviedo
+100001268	Universidad de Oviedo
+100001269	Universidad del Atlántico
+100001270	Universidade Nova de Lisboa
+100001271	Universitas Pembangunan Nasional Veteran Jakarta
+100001272	Universitat Polit?cnica Val?ncia
+100001273	Universitat Politècnica de València
+100001274	Universidad Pompeu Fabra
+100001275	Universitat Pompeu Fabra
+100001276	University of Barcelona
+100001277	Universitat de Barcelona
+100001278	Universiti Malaysia Kelantan
+100001279	Universiti Sains Malaysia
+100001280	Universities UK
+100001281	University Grant Commission
+100001282	University Grants Commission
+100001283	University Grants Committee of Hong Kong
+100001284	University Grants Committee
+100001285	University Children's Hospital, Heidelberg
+100001286	University Hospital Heidelberg
+100001287	University of Alabama at Birmingham
+100001288	University of Alabama in Huntsville
+100001289	University of Belgrade
+100001290	University of Bern
+100001291	Rheinische Friedrich-Wilhelms-Universität Bonn
+100001292	University of Bonn
+100001293	Universitas Brawijaya
+100001294	University of Brawijaya
+100001295	UC Berkeley
+100001296	UC-Berkeley
+100001297	University of California, Berkeley
+100001298	University of California, Los Angeles
+100001299	University of Campania
+100001300	"University of Campania ""Luigi Vanvitelli"""
+100001301	University of Chinese Academy of Sciences
+100001302	University of Colorado Boulder
+100001303	University of Copenhagen
+100001304	University of Cyprus
+100001305	Göteborgs Universitet
+100001306	University of Gothenburg
+100001307	University of Greenwich
+100001308	University of Guelph, U of G
+100001309	University of Guelph
+100001310	University of Illinois System, UofI
+100001311	University of Illinois System
+100001312	University of Illinois
+100001313	University of Illinois at Urbana-Champaign
+100001314	University of Illinois Urbana-Champaign
+100001315	Universitas Indonesia
+100001316	University of Indonesia
+100001317	University of Iowa
+100001318	University of Kansas
+100001319	University of Kentucky
+100001320	University of Kerala
+100001321	Universidade de Lisboa
+100001322	University of Lisbon
+100001323	University of London
+100001324	University of Louisville
+100001325	Universiti Malaya
+100001326	University of Malaya
+100001327	University of Nebraska
+100001328	University of Nebraska System
+100001329	University of Notre Dame
+100001330	University of Nottingham Ningbo China
+100001331	University of Oklahoma
+100001332	Università degli Studi di Salerno
+100001333	University of Salerno
+100001334	University of Science and Technology USTC
+100001335	University of Science and Technology of China
+100001336	University of South Australia
+100001337	Syddansk Universitet
+100001338	University of Southern Denmark
+100001339	University of Sussex, Brighton, Sussex, United Kingdom
+100001340	University of Sussex
+100001341	Health Science Center, University of Tennessee
+100001342	University of Tennessee Health Science Center
+100001343	University of Tennessee, Knoxville
+100001344	University of Tennessee at Knoxville
+100001345	University of Texas at Austin
+100001346	University of Toronto, UofT
+100001347	University of Toronto
+100001348	University of Tsukuba
+100001349	University of Tsukuba Gateway
+100001350	University of Waikato
+100001351	University of Wisconsin-Madison
+100001352	University of York
+100001353	University-level Teaching Quality Project
+100001354	University of Lorraine, France)
+100001355	Université de Lorraine
+100001356	University of Poitiers
+100001357	Université de Poitiers
+100001358	University of Rouen
+100001359	Université de Rouen Normandie
+100001360	Utah Library Association
+100001361	Valdosta State University
+100001362	Valéria Aragão
+100001363	Varian Medical Systems
+100001364	Venture and Innovation Support Program for Chongqing Overseas Returnees
+100001365	Vienna University of Economics and Business
+100001366	Vlaamse Interuniversitaire Raad
+100001367	Volkswagen Aktiengesellschaft
+100001368	Volkswagen Group
+100001369	WW Smith Fund
+100001370	W. W. Smith Charitable Trust
+100001371	W.K. Kellogg Foundation
+100001372	Waasegiizhig Nanaandawe'iyewigamig Health Access Centre
+100001373	Waasegiizhig Nanaandawe'iyewigamig
+100001374	Walter Ahlströmin Säätiö
+100001375	Washington Research Foundation
+100001376	Wellcome Trust
+100001377	Wen-Lung Shiau
+100001378	Wenzhou basic scientific research project, China
+100001379	Wessex Medical Research
+100001380	West Bengal National University of Juridical Sciences
+100001381	West University of Timisoara
+100001382	West University of Timişoara
+100001383	Fondation Philippe Wiener - Maurice Anspach
+100001384	Wiener - Anspach Foundation
+100001385	Wikimedia Foundation
+100001386	Wisconsin Institutes for Discovery
+100001387	Wolfson College, University of Oxford
+100001388	Politechnika Wrocławska
+100001389	Wrocław University of Science and Technology
+100001390	Application Foundation Frontier Project of Wuhan Science and Technology Bureau
+100001391	Wuhan Science and Technology Bureau
+100001392	Wuhan Science and Technology Planning Application Foundation Frontier Project
+100001393	Wuhan University
+100001394	Wuhan University of Science and Technology
+100001395	XXXX University
+100001396	Xi’an Jiaotong-Liverpool University
+100001397	YCharOS Inc.
+100001398	Yaan Public Meteorological Service Center
+100001399	Yale Library
+100001400	Yibin University
+100001401	Yiren Technology Co.
+100001402	Yonsei University Research Fund
+100001403	Yonsei University
+100001404	Yunnan Science and Technology Fund
+100001405	University of Yunnan Province
+100001406	Yunnan University
+100001407	German National Library of Economics
+100001408	ZBW – Leibniz-Informationszentrum Wirtschaft
+100001409	Zte Corporation
+100001410	ZTE
+100001411	Zhejiang Dingli Industrial Company
+100001412	Zhejiang Dingli Industrial Co., Ltd.
+100001413	Zhejiang Province Planning Project of Philosophy and Social Sciences
+100001414	Zhejiang Provincial Experimental Teaching Demonstration Center
+100001415	National Nature Science Foundation of Zhejiang Province
+100001416	Zhejiang Provincial Natural Science Foundation
+100001417	Zhejiang Provincial Ten Thousand Plan for Young Top Talents
+100001418	Zhejiang University of Technology
+100001419	Netidee science
+100001420	netidee SCIENCE
+100001421	universities and other higher education institutions
+100001422	Örebro Universitet
+100001423	Ústav organické chemie a biochemie Akademie věd České republiky
+100001424	“333 Talent Project” in Hebei Province
