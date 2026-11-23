@@ -1,0 +1,28 @@
+Organization Name Binary Classification Experiment
+============================================================
+Model choice: svm
+Model name: TF-IDF + Calibrated Linear SVM
+Number of instances: 500
+Number of folds: 10
+Class 0 count: 255
+Class 1 count: 245
+TF-IDF analyzer: char_wb
+TF-IDF n-gram range: (2, 5)
+SVM C: 1.0
+Probability calibration: sigmoid, CV=5
+
+Mean 10-fold evaluation results
+------------------------------------------------------------
+accuracy: 0.8340 (SD = 0.0401)
+class_0_precision: 0.8588 (SD = 0.0644)
+class_0_recall: 0.8152 (SD = 0.0847)
+class_0_f1: 0.8324 (SD = 0.0456)
+class_1_precision: 0.8228 (SD = 0.0614)
+class_1_recall: 0.8525 (SD = 0.0781)
+class_1_f1: 0.8337 (SD = 0.0387)
+macro_precision: 0.8408 (SD = 0.0407)
+macro_recall: 0.8339 (SD = 0.0390)
+macro_f1: 0.8331 (SD = 0.0402)
+weighted_precision: 0.8409 (SD = 0.0401)
+weighted_recall: 0.8340 (SD = 0.0401)
+weighted_f1: 0.8332 (SD = 0.0404)

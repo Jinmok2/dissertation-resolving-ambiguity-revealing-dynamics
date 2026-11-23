@@ -1,0 +1,24 @@
+Organization Name Binary Classification Experiment
+============================================================
+Model choice: bert
+Pretrained model: google-bert/bert-base-multilingual-cased
+Number of instances: 500
+Number of folds: 10
+Class 0 count: 255
+Class 1 count: 245
+
+Mean 10-fold evaluation results
+------------------------------------------------------------
+accuracy: 0.9080 (SD = 0.0454)
+class_0_precision: 0.9129 (SD = 0.0744)
+class_0_recall: 0.9137 (SD = 0.0585)
+class_0_f1: 0.9105 (SD = 0.0423)
+class_1_precision: 0.9127 (SD = 0.0531)
+class_1_recall: 0.9025 (SD = 0.0866)
+class_1_f1: 0.9047 (SD = 0.0499)
+macro_precision: 0.9128 (SD = 0.0439)
+macro_recall: 0.9081 (SD = 0.0454)
+macro_f1: 0.9076 (SD = 0.0457)
+weighted_precision: 0.9130 (SD = 0.0439)
+weighted_recall: 0.9080 (SD = 0.0454)
+weighted_f1: 0.9077 (SD = 0.0458)
